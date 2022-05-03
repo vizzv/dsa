@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int t;
+    int t; 
     cin>>t;
 
     class solution{
@@ -37,7 +37,7 @@ int main(){
         else{
             for(int tmp :ans){
                 cout<<tmp<<" ";
-            }cout<<endl;
+            }cout<< endl;
         }
     }
     return 0;
